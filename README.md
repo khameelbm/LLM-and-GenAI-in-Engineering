@@ -16,3 +16,21 @@ A Collection of Papers on the Use of LLM and GenAI in Engineering
 
 7.  *Opportunities for Large Language Models and Discourse in Engineering Design* [[Paper]](https://arxiv.org/abs/2306.09169)
 
+8.  *Natural language processing in-and-for design research* [[Paper]](https://www.cambridge.org/core/journals/design-science/article/natural-language-processing-inandfor-design-research/5EE5CF29BC6632A1280EA30574D54076)
+
+9.  *Latent Diffusion Models for Structural Component Design* [[Paper]](https://arxiv.org/abs/2309.11601)
+
+10.  *Assessing Large Language Models in Mechanical Engineering Education: A Study on Mechanics-Focused Conceptual Understanding* [[Paper]](https://arxiv.org/abs/2401.12983)
+
+11.  *MechAgents: Large language model multi-agent collaborations can solve mechanics problems, generate new data, and integrate knowledge* [[Paper]](https://arxiv.org/abs/2311.08166)
+
+12.  *Generative Retrieval-Augmented Ontologic Graph and Multiagent Strategies for Interpretive Large Language Model-Based Materials Design* [[Paper]](https://pubs.acs.org/doi/full/10.1021/acsengineeringau.3c00058)
+
+13.  **MeLM**: *MeLM, a Generative Pretrained Language Modeling Framework That Solves Forward and Inverse Mechanics Problems* 
+    -   [[Paper]](https://www.sciencedirect.com/science/article/pii/S0022509623002582)
+    -   [[GitHub]](https://github.com/lamm-mit/MeLM)
+
+14.  **BioinspiredLLM**: *BioinspiredLLM: Conversational Large Language Model for the Mechanics of Biological and Bio-Inspired Materials* [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202306724)
+
+
+
