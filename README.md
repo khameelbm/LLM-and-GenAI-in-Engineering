@@ -1,5 +1,5 @@
 # LLM-and-GenAI-in-Engineering
-Following the rise of large language models (LLM) and generative AI, there has been an expansion of their applications beyond the niche field of natural language processing. I initiated this repo to serve as a collection point for academic papers at the intersection of LLM/GenAI and Mechanical/Materials Engineering. 
+Following the rise of large language models (LLM) and generative AI in 2023, there has been an expansion of their applications beyond the niche field of natural language processing. I initiated this repo to serve as a collection point for academic papers at the intersection of LLM/GenAI and Mechanical/Materials Engineering. 
 
 1.  **MechGPT**: *MechGPT, a language-based strategy for mechanics and materials modeling that connects knowledge across scales, disciplines and modalities*
 [[Paper]](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/76/2/021001/1169582/MechGPT-a-Language-Based-Strategy-for-Mechanics)
