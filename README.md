@@ -32,5 +32,8 @@ A Collection of Papers on the Use of LLM and GenAI in Engineering
 
 14.  **BioinspiredLLM**: *BioinspiredLLM: Conversational Large Language Model for the Mechanics of Biological and Bio-Inspired Materials* [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202306724)
 
+15.  **MPEGO**: *MPEGO: A toolkit for multi-level performance evaluation of
+generative models for material discovery domains* [[Paper]](https://demos.rni.tcsapps.com/mlms-2022/assets/pdfs/7-CameraReady-KDD_22_MLMS_MPEGO_Camera_Ready.pdf)
+
 
 
