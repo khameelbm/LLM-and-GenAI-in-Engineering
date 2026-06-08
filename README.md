@@ -37,7 +37,8 @@ generative models for material discovery domains* [[Paper]](https://demos.rni.tc
 
 16. **ALL-FEM**: Agentic Large Language Models fine-tuned for finite element methods.[[Paper]](https://www.sciencedirect.com/science/article/pii/S0045782526002586)
 17. **POLARIS**: [POLARIS: perovskite optimization using LLM-assisted refinement and intelligent screening](https://pubs.rsc.org/en/content/articlelanding/2026/dd/d5dd00378d)
-18. **MechBERT**:[MechBERT: Language Models for Extracting Chemical and Property Relationships about Mechanical Stress and Strain](https://pubs.acs.org/doi/10.1021/acs.jcim.4c00857) 
+18. **MechBERT**:[MechBERT: Language Models for Extracting Chemical and Property Relationships about Mechanical Stress and Strain](https://pubs.acs.org/doi/10.1021/acs.jcim.4c00857)
+19. **OpticalBERT**:[OpticalBERT and OpticalTable-SQA: Text- and Table-Based Language Models for the Optical-Materials Domain](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01259)
 
 
 
